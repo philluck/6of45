@@ -12,7 +12,8 @@ public class Main {
         com.mysqltest123();
         
         rnd rnd2 = new rnd ();
-        rnd2.randommain();
+      //  int ball = rnd2.randommain();
+        System.out.println("Генератор случайных целых чисел в диапазоне [0 ; 45]: " );
         
                 // TODO code application logic here
     }
